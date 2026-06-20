@@ -1,6 +1,6 @@
 Disease Outbreak Analysis and Forecast in Nigeria
 
-Tool: Power BI Desktop
+Tool: Excel and Power BI Desktop
 Dataset: Disease case records across Nigeria, sourced from Kaggle
 Coverage: 2008–2018, all 36 states plus the Federal Capital Territory (FCT)
 Diseases tracked (10): Cholera, Diarrhoea, Ebola, Malaria, Marburg Virus, Measles, Meningitis, Rubella, Viral Haemorrhagic Fever, Yellow Fever
